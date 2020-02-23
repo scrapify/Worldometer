@@ -1,0 +1,37 @@
+Scrapy startproject projectnemae
+
+Go to the project folder
+
+scrapy genspider url.com dont include http
+
+allowed somains no http
+
+start urls https
+
+
+conda install ipython
+
+r=scrapy.Request(url ='https://www.worldometers.info/world-population/population-by-country')
+fetch(r)
+response.body
+view(response)
+
+ctrl u
+ctrl shift i
+ctrl shift p
+
+
+title = response.xpath('//h1/text()')
+title_css = response.css('h1::text')
+title.get()
+
+
+countries = response.xpath('//td/a/text()')
+countries.getall()
+
+
+yield
+
+scrapy crawl countries
+
+

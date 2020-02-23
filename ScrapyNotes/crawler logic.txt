@@ -1,0 +1,34 @@
+parse method
+
+Find the selector (response.xpath)
+
+Lopp through selector
+
+output value using yield
+
+
+
+respose.request(page)
+call back parse
+
+user agent
+
+
+start_request
+
+
+Steps to Crawl
+
+Check if the website can be crawled(Terms and condition, robot and 
+Create project
+Select crawler template
+Make some minor changes to link for crawling
+Open identify selector xpath
+Use shell to test crawls
+Set debug environment
+Create logic to parse subequnt xpath
+Create logic to follow links
+Use pagination method
+Configure user agent
+Configure headers in request(Header spoofing)
+

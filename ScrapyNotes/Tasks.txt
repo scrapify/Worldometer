@@ -1,0 +1,83 @@
+Project 1 - Scrap pricing detail from a site and put it in google sheets
+
+Rotating IPS
+Proxys
+Fake user agent
+Chrome extension of a scrapper
+Bypass recaptch
+API calling in scrappy
+Create a python executable, installer
+mobile and residential proxies
+LEarn beautiful soup
+Learn case studies of beautiful soup
+Github
+Devops
+Beautiful soup
+
+
+Project 4 - Scrap live data and put it in a site
+
+Project 6- Scraping for dropshipping
+
+Project 5 - scrap and put in database like SQL
+
+
+Project 8 - Scrap real estate data from site
+
+
+Project 9 - Capture reviews from the site capterra
+
+Capture data from the site capterra
+
+
+Project 10 - Automated reservation of products in sites or train tickets
+
+
+Project 11 - Extract data from PDF to excel
+
+Project 12 - Scrap data from mobile app
+
+Bug tracking system
+
+
+
+
+
+
+
+Product road map
+
+
+Project 3 
+Google Maps search export
+Data Scraping Crawler - list of companies/site will fetch email 
+
+Project 8 
+Craiglist page scraper
+Craiglist global search
+
+Project
+facebook profile url finder
+facebook profile scraper
+
+Project 2
+LinkedIn Lead Generation Workflow
+LinkedIn Profile Scraper
+Linked in companies employee
+linked in url finder
+linked in companies info
+linked in contact extractor
+linked in group members
+linked in job scraper
+linked in personal email extractor
+linked in network booster
+sales nav booster
+sales nav search scraper
+sales nav who visited
+sales nav profile scraper
+email to linked in profile finder
+
+webelemnts extractor
+
+youtube channel scraper
+youtube video extractor

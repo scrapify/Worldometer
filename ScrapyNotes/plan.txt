@@ -1,0 +1,39 @@
+
+1. 
+2. get the advance
+3. get the tax done
+4. pay the school fee
+5. finalize a house
+
+
+complete the scrapy course = 8
+come up with a plan to validate idea - 3
+Update Upwork - 0.75
+Update splash in freelancer and upwork - -.5
+Sexction 1
+Sectuon 2
+Section 3 - 3
+Learn git-1.5
+Create templates for Bidding-1
+Bid 4 projects per day-2
+Fuind a way to make us calls - 1
+
+
+
+Xpath expressions and CSS selectors
+Project 1 spiders A to Z
+Building data asets
+Project 2 Dealing with multiple pages
+Debugging spiders
+Lets take a break
+Project 3 Building crawlers wit scrapy
+Project 4 scraping Javascript with splash
+Project 5 scraping with selenium
+Working with pipelines
+Avoid getting banned
+Scraping api
+Hosting spider for free
+scrapy post requests
+media pipeline
+free and paid proxy
+
